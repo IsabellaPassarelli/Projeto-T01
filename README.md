@@ -23,7 +23,7 @@ cd Projeto-T01
 - Interface responsiva para diferentes dispositivos.
 - Botão para acesso às faixas do álbum.
 
-## Aluna
+## 👩 Aluna
 
 | Nome                 | R.A.        |
 | :------------------: | :---------: |
